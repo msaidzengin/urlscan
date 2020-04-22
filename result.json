@@ -1,0 +1,25 @@
+{
+    "banka": [],
+    "devlet": [
+        {
+            "task": {
+                "visibility": "public",
+                "method": "manual",
+                "options": {
+                    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+                },
+                "time": "2020-02-24T07:21:45.171Z",
+                "source": "web",
+                "url": "http://aidatiadebireyselonline.devlet"
+            },
+            "stats": {},
+            "page": {
+                "domain": "aidatiadebireyselonline.devlet",
+                "url": "http://aidatiadebireyselonline.devlet"
+            },
+            "_id": "f6de1a38-80c5-4032-92e6-1173968a252e",
+            "result": "https://urlscan.io/api/v1/result/f6de1a38-80c5-4032-92e6-1173968a252e"
+        }
+    ],
+    "korona": []
+}
