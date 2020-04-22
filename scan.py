@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-url = 'https://urlscan.io/api/v1/search/?q=domain:'
+url = 'https://urlscan.io/api/v1/search/?q='
 words = ["banka", "devlet", "korona"]
 results = {}
 result_list = []
